@@ -119,7 +119,7 @@ This version of Workrave will no longer connect to older Workrave versions.&lt;/
 &lt;/ul></description></item><item><title>Workrave 1.10.4 Released</title><link>https://test.workrave.org/2014/04/27/workrave-1-10-4-released/</link><pubDate>Sun, 27 Apr 2014 00:00:00 +0100</pubDate><author>Rob Caelers</author><guid>https://test.workrave.org/2014/04/27/workrave-1-10-4-released/</guid><description>&lt;p>Workrave 1.10.4 has been released. This release fixes an issue with the gnome-shell applet for Gnome 3.12.&lt;/p></description></item><item><title>Workrave 1.10.3 Released</title><link>https://test.workrave.org/2014/02/11/workrave-1-10-3-released/</link><pubDate>Tue, 11 Feb 2014 00:00:00 +0100</pubDate><author>Rob Caelers</author><guid>https://test.workrave.org/2014/02/11/workrave-1-10-3-released/</guid><description>&lt;p>Workrave 1.10.3 has been released. This release contains many small bugfixes.&lt;/p>
 &lt;p>The following bugs have been fixed since Workrave 1.10.1:&lt;/p>
 &lt;ul>
-&lt;li>bug 1113: Unity Indicator icon doesn't change when in suspended mode&lt;/li>
+&lt;li>bug 1113: Unity Indicator icon doesn&amp;rsquo;t change when in suspended mode&lt;/li>
 &lt;li>bug 1114: Closing timer window closes program.&lt;/li>
 &lt;li>bug 1120: make the GNOME shell extension compatible with GNOME 3.8&lt;/li>
 &lt;li>bug 1136: Status window always appears on startup&lt;/li>

@@ -17,7 +17,7 @@ Yokota.&lt;/p></description></item><item><title>Italian leaflet</title><link>htt
 &lt;p>The leaflet was translated by Pierre-Henri Trivier, thanks.&lt;/p></description></item><item><title>Windows applet in the works</title><link>https://test.workrave.org/2004/02/03/windows-applet-works/</link><pubDate>Tue, 03 Feb 2004 08:00:00 +0100</pubDate><author>Raymond Penners</author><guid>https://test.workrave.org/2004/02/03/windows-applet-works/</guid><description>&lt;p>Started working on a version of the status window that can be embedded in your
 Windows taskbar.&lt;/p>
 &lt;p>GNU/Linux users have had the privilege to enjoy this feature for quite some time
-now, but it is finally coming to the Windows world. Here's a snapshot:&lt;/p>
+now, but it is finally coming to the Windows world. Here&amp;rsquo;s a snapshot:&lt;/p>
 &lt;p>&lt;img src="workrave-applet.png" alt="Applet">&lt;/p></description></item><item><title>Nightly builds</title><link>https://test.workrave.org/2003/09/09/nightly-builds/</link><pubDate>Tue, 09 Sep 2003 10:00:00 +0200</pubDate><author>Raymond Penners</author><guid>https://test.workrave.org/2003/09/09/nightly-builds/</guid><description>&lt;p>We have set up a nightly build system. Currently, it builds a Debian package,
 source tarball, and a Windows installer version.&lt;/p>
 &lt;p>Interesting to note is that the Windows version is completely built on a
@@ -37,14 +37,14 @@ office chair, which still needs some nice colors though&amp;hellip;:&lt;/p>
 snapshot.&lt;/p>
 &lt;p>I spent the last few nights moving the site over to my new provider. The site is
 finally 100% up and running again. So now I can continue to work on Miss
-Workrave. I am currently focusing on her face, here's a first snapshot:&lt;/p>
+Workrave. I am currently focusing on her face, here&amp;rsquo;s a first snapshot:&lt;/p>
 &lt;p>&lt;img src="workrave-face.png" alt="Face">&lt;/p></description></item><item><title>Newsflash</title><link>https://test.workrave.org/2003/06/24/newsflash/</link><pubDate>Tue, 24 Jun 2003 10:00:00 +0200</pubDate><author>Raymond Penners</author><guid>https://test.workrave.org/2003/06/24/newsflash/</guid><description>&lt;p>It has been a bit too quiet on the Workrave front lately, so I thought it would
-be nice to inform you about what's cooking.&lt;/p>
+be nice to inform you about what&amp;rsquo;s cooking.&lt;/p>
 &lt;p>Initially, we were planning on releasing version 1.4.0, with exercises being the
 most interesting new feature addition. However, a lot of time went into 3D
 modeling of &amp;lsquo;Miss Workrave&amp;rsquo;, who is supposed to instruct you on how to do your
 exercises. In fact, a lot of time is still going into that as I speak right now.
-Therefore, it is most likely that we'll release an intermediate 1.2.3 in the
-near future. You'll have to be a bit more patient for the exercises, but here's
+Therefore, it is most likely that we&amp;rsquo;ll release an intermediate 1.2.3 in the
+near future. You&amp;rsquo;ll have to be a bit more patient for the exercises, but here&amp;rsquo;s
 a sneak preview of how &amp;ldquo;Miss Workrave&amp;rdquo; is going to look&amp;hellip;&lt;/p>
 &lt;p>&lt;img src="workrave.png" alt="Workrave">&lt;/p></description></item></channel></rss>
