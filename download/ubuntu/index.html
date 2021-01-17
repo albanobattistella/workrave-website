@@ -11,7 +11,7 @@
 <img src=https://repology.org/badge/version-for-repo/ubuntu_14_04/workrave.svg alt="ubuntu_14_04 package"><br></p><p><a href=https://www.ubuntu.com/>Ubuntu</a> comes with a Workrave package. You can install
 it from the command line with the following command:</p><div class=highlight><pre class=chroma><code class=language-bash data-lang=bash>sudo apt-get install workrave</code></pre></div><p>If you need a newer version than what is included in your distribution, use the official Workrave PPA.</p><p>The Workrave PPA can be enabled by entering these commands into a terminal:</p><div class=highlight><pre class=chroma><code class=language-bash data-lang=bash>sudo add-apt-repository --yes ppa:rob-caelers/workrave
 sudo apt update
-sudo apt install workrave</code></pre></div><p>The Workrave PPA has separate package for each supported desktop environment.
+sudo apt install workrave</code></pre></div><p>If you have the Ubuntu version of Workrave installed, you need to uninstall that first:</p><div class=highlight><pre class=chroma><code class=language-bash data-lang=bash>sudo apt remove workrave workrave-data</code></pre></div><p>The Workrave PPA has separate package for each supported desktop environment.
 You only need to install the one for your desktop environment.</p><div class=highlight><pre class=chroma><code class=language-bash data-lang=bash>sudo apt install workrave-cinnamon
 sudo apt install workrave-gnome
 sudo apt install workrave-mate
