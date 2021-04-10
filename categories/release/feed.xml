@@ -1,4 +1,35 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Workrave</title><link>https://workrave.org/categories/release/</link><description>Recent blog posts on Workrave</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2020 00:00:00 +0100</lastBuildDate><atom:link href="https://workrave.org/categories/release/feed.xml" rel="self" type="application/rss+xml"/><item><title>Workrave 1.10.44 Released</title><link>https://workrave.org/2020/05/09/workrave-1-10-44-released/</link><pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate><author>Rob Caelers</author><guid>https://workrave.org/2020/05/09/workrave-1-10-44-released/</guid><description>&lt;p>Workrave 1.10.44 has been released with a several small bug fixes and an updated Italian translation.&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Workrave</title><link>https://workrave.org/categories/release/</link><description>Recent blog posts on Workrave</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 27 Mar 2021 02:19:02 +0100</lastBuildDate><atom:link href="https://workrave.org/categories/release/feed.xml" rel="self" type="application/rss+xml"/><item><title>Workrave 1.10.45 Released</title><link>https://workrave.org/2021/03/27/workrave-1-10-45-released/</link><pubDate>Sat, 27 Mar 2021 02:19:02 +0100</pubDate><author>Rob Caelers</author><guid>https://workrave.org/2021/03/27/workrave-1-10-45-released/</guid><description>&lt;p>Workrave 1.10.45 has been released. This release adds a new sound theme and several small improvements.&lt;/p>
+&lt;p>Changes since Workrave 1.10.44:&lt;/p>
+&lt;ul>
+&lt;li>Micro breaks without a postpone button could be postponed by starting a
+rest break while the break prompt window was visible and then clicking
+postpone in the rest break window. The postpone button is now disabled
+when the micro break is overdue, and the maximum number of break prompts
+was reached.&lt;/li>
+&lt;li>A new sound theme calls &amp;lsquo;Bells&amp;rsquo; has been added (#225, Pieter De Decker)&lt;/li>
+&lt;li>Added support for High-DPI displays in the Windows Applet.&lt;/li>
+&lt;li>The Windows applet now correctly enforces a minimum size (#252)&lt;/li>
+&lt;li>Initial support for icon themes.&lt;/li>
+&lt;li>Fixes:
+&lt;ul>
+&lt;li>Fixed build issue with libayatana-indicator3&lt;/li>
+&lt;li>Fixed issue where Workrave would show 2 status icons on Linux (#258)&lt;/li>
+&lt;li>Fixed a deprecation warning in the Gnome Shell applet (#251)&lt;/li>
+&lt;li>The cinnamon applet is no longer bouncing up and down (#253)&lt;/li>
+&lt;li>Fixed issue where the current language was always &amp;ldquo;Unrecognized language&amp;rdquo;&lt;/li>
+&lt;li>Fixed issue where activity monitoring would stop after restarting Gnome Shell&lt;/li>
+&lt;li>Fixed issue that caused the main window to disappear (#244, 259)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Translation updates:
+&lt;ul>
+&lt;li>Updated Chinese translation (#232, wintertee)&lt;/li>
+&lt;li>Updated French translation (Darialalala)&lt;/li>
+&lt;li>Updated Dutch translation (Matthias Huijgen)&lt;/li>
+&lt;li>Fixed typo in the Italian translation (#234, albanobattistella)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Workrave 1.10.44 Released</title><link>https://workrave.org/2020/05/09/workrave-1-10-44-released/</link><pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate><author>Rob Caelers</author><guid>https://workrave.org/2020/05/09/workrave-1-10-44-released/</guid><description>&lt;p>Workrave 1.10.44 has been released with a several small bug fixes and an updated Italian translation.&lt;/p>
 &lt;p>Changes since Workrave 1.10.43:&lt;/p>
 &lt;ul>
 &lt;li>Update Italian translation (Albano Battistella)&lt;/li>
